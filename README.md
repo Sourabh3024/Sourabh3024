@@ -25,8 +25,7 @@ I am transition my career towards data analyst postion. I have 1.5 years of expe
 - 👨🏻‍💻 I’m transition data analyst;
 - 🚀 I’m learning pursuing Post Graduation Diploma in Computer Application;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me [Portfolio Website]: [analystsourabh24@gmail.com
-](https://sourabhkumar.carrd.co/)
+- 📫 How to reach me [Portfolio Website]: (https://sourabhkumar.carrd.co/)
 
 </br>
 
